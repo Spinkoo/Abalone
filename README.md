@@ -1,6 +1,8 @@
 # Abalone
 Abalone game in java ( processing ) using ALPHA/BETA purning for decision making  
 
+https://youtu.be/kkAxWXPdg1U
+
 
 A little abalone game in java using processing
 
